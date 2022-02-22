@@ -8,7 +8,7 @@ Question 1 . Yukarıda verilen dizinin sort türüne göre aşamalarını yazın
 3.Step [ 2  , 6  , 16 , 22 , 18 , 27 ]
 4.Step [ 2  , 6  , 16 , 18 , 22 , 27 ]
 
-Question 2  . Big - O gösterimini yazınız.
+Question 2 . Dizinin Big - O gösterimini yazınız.
 
 Big O = O [ N ^ 2 ] 
 
