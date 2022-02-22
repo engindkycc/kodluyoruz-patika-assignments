@@ -1,29 +1,28 @@
 [ 22 , 27 , 16 , 2 , 18 , 6 ] -> İnsertion Sort
-Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
-Question 1 . Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
+Question 1 : Write the stages of the above array according to the sort type. 
 
-1.Step [ 22 , 27 , 16 , 2  , 18 , 6  ]
-2.Step [ 2  , 27 , 16 , 22 , 18 , 6  ]
-3.Step [ 2  , 6  , 16 , 22 , 18 , 27 ]
-4.Step [ 2  , 6  , 16 , 18 , 22 , 27 ]
+Answer   1 : 1.Step [ 22 , 27 , 16 , 2  , 18 , 6  ]
+             2.Step [ 2  , 27 , 16 , 22 , 18 , 6  ]
+             3.Step [ 2  , 6  , 16 , 22 , 18 , 27 ]
+             4.Step [ 2  , 6  , 16 , 18 , 22 , 27 ]
 
-Question 2 . Dizinin Big - O gösterimini yazınız.
+Question 2 : Write the Big - O notation of the array. 
 
-Big O = O [ N ^ 2 ] 
+Answer   2 : Big O = O [ N ^ 2 ] 
 
-Question 3 . Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+Question 3 : What case does the number 18 fall into after the array is sorted? Write. 
 
 Time Complexity
   Average case: Aradığımız sayının ortada olması,
   Worst case: Aradığımız sayının sonda olması, 
   Best case: Aradığımız sayının dizinin en başında olması.
 
-18 elemanı Average Case kapsamına girer.
+Answer   3 : 18 members are covered by Average Case 
 
-Question 4 . [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+Question 4 : [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
-[ 7 , 3 , 5 , 8 , 2 , 9 , 4 , 15 , 6 ]
-[ 2 , 3 , 5 , 8 , 7 , 9 , 4 , 15 , 6 ]
-[ 2 , 3 , 4 , 8 , 7 , 9 , 5 , 15 , 6 ]
-[ 2 , 3 , 4 , 5 , 7 , 8 , 9 , 15 , 6 ]
+Answer   4 :  Step 1 : [ 7 , 3 , 5 , 8 , 2 , 9 , 4 , 15 , 6 ]
+              Step 2 : [ 2 , 3 , 5 , 8 , 7 , 9 , 4 , 15 , 6 ]
+              Step 3 : [ 2 , 3 , 4 , 8 , 7 , 9 , 5 , 15 , 6 ]
+              Step 4 : [ 2 , 3 , 4 , 5 , 7 , 8 , 9 , 15 , 6 ]
