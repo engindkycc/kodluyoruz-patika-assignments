@@ -1,4 +1,6 @@
-[ 22 , 27 , 16 , 2 , 18 , 6 ] -> İnsertion Sort 
+[ 22 , 27 , 16 , 2 , 18 , 6 ] -> İnsertion Sort
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
 Question 1 . Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 
 1.Step [ 22 , 27 , 16 , 2  , 18 , 6  ]
