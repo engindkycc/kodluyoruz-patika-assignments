@@ -12,9 +12,9 @@ Question 2 : Write the Big - O notation of the array.
 Answer   2 : Big O = O [ N ^ 2 ] 
 
 Question 3 : Time Complexity
-            Average case: Aradığımız sayının ortada olması,
-            Worst case: Aradığımız sayının sonda olması, 
-            Best case: Aradığımız sayının dizinin en başında olması.
+             Average case: Aradığımız sayının ortada olması,
+             Worst case: Aradığımız sayının sonda olması, 
+             Best case: Aradığımız sayının dizinin en başında olması.
 
 Question 4 : What case does the number 18 fall into after the array is sorted? Write. 
 
