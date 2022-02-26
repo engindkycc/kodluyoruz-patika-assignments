@@ -20,9 +20,10 @@ Time Complexity
 
 Answer   3 : 18 members are covered by Average Case 
 
-Question 4 : [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+Question 4 : Write down the first 4 steps of [7,3,5,8,2,9,4,15.6] by Insertion Sort. 
 
 Answer   4 :  Step 1 : [ 7 , 3 , 5 , 8 , 2 , 9 , 4 , 15 , 6 ]
               Step 2 : [ 2 , 3 , 5 , 8 , 7 , 9 , 4 , 15 , 6 ]
               Step 3 : [ 2 , 3 , 4 , 8 , 7 , 9 , 5 , 15 , 6 ]
-              Step 4 : [ 2 , 3 , 4 , 5 , 7 , 8 , 9 , 15 , 6 ]
+              Step 4 : [ 2 , 3 , 4 , 5 , 7 , 9 , 8 , 15 , 6 ]
+              Step 5 : [ 2 , 3 , 4 , 5 , 6 , 9 , 8 , 15 , 7 ]
