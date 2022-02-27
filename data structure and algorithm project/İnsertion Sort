@@ -9,7 +9,7 @@ Answer   1 : Step 1 : [ 22 , 27 , 16 , 2  , 18 , 6  ]
 
 Question 2 : Write the Big - O notation of the array. 
 
-Answer   2 : Big O = O [ N ^ 2 ] 
+Answer   2 : Big O = O [ n ^ 2 ] 
 
 Question 3 : Time Complexity
              Average case: Aradığımız sayının ortada olması,
